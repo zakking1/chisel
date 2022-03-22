@@ -1,6 +1,5 @@
 #!/bin/bash
 clear
-sudo su
 Menu() {
 echo -e "SERVIDOR CHISEL SCRIPT by CRYZUEZIN"
 echo -e ""
