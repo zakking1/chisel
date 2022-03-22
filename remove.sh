@@ -1,0 +1,1 @@
+read -p "ESCOLHA UM FORMATO DO DOCKER, QUE É SUPORTADO POR SUA VPS (docker ou docker.io): " docker && $docker stop chisel && $docker rm chisel
